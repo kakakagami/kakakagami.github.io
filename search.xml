@@ -1,6 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>test_post_kakagami</title>
+    <url>/2022/08/20/undefined/</url>
+    <content><![CDATA[<p>有意義的東西</p>
+]]></content>
+      <categories>
+        <category>中文</category>
+      </categories>
+      <tags>
+        <tag>乱写</tag>
+        <tag>测试</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>mic check</title>
+    <url>/2022/08/20/undefined/</url>
+    <content><![CDATA[<p>Mic check Mic check</p>
+]]></content>
+  </entry>
+  <entry>
     <title>【未完成】2022年夏『権威主義的パーソナリティ』読書会　関連文献書誌情報</title>
     <url>/2022/08/24/Bibliographic-information-of-Authoritarian-personality/</url>
     <content><![CDATA[<h2 id="第一回（8月6日）"><a href="#第一回（8月6日）" class="headerlink" title="第一回（8月6日）"></a>第一回（8月6日）</h2><ul>
@@ -37,25 +56,6 @@
       </categories>
       <tags>
         <tag>『権威主義的パーソナリティ』</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>mic check</title>
-    <url>/2022/08/20/undefined/</url>
-    <content><![CDATA[<p>Mic check Mic check</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>test_post_kakagami</title>
-    <url>/2022/08/20/undefined/</url>
-    <content><![CDATA[<p>有意義的東西</p>
-]]></content>
-      <categories>
-        <category>中文</category>
-      </categories>
-      <tags>
-        <tag>乱写</tag>
-        <tag>测试</tag>
       </tags>
   </entry>
   <entry>
