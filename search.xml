@@ -73,12 +73,6 @@
       </tags>
   </entry>
   <entry>
-    <title>mic check</title>
-    <url>/2022/08/20/undefined/</url>
-    <content><![CDATA[<p>Mic check Mic check</p>
-]]></content>
-  </entry>
-  <entry>
     <title>Schmitt&amp;Straussは民主制の可能性という夢を見るか</title>
     <url>/2022/10/06/undefined/</url>
     <content><![CDATA[<p>ちょっとこの前の読書会で言えなかったことをいうと、</p>
@@ -102,17 +96,10 @@
       </tags>
   </entry>
   <entry>
-    <title>test_post_kakagami</title>
+    <title>mic check</title>
     <url>/2022/08/20/undefined/</url>
-    <content><![CDATA[<p>有意義的東西</p>
+    <content><![CDATA[<p>Mic check Mic check</p>
 ]]></content>
-      <categories>
-        <category>中文</category>
-      </categories>
-      <tags>
-        <tag>乱写</tag>
-        <tag>测试</tag>
-      </tags>
   </entry>
   <entry>
     <title>「英語で書く」ということ（未完）</title>
@@ -227,34 +214,6 @@
       </categories>
   </entry>
   <entry>
-    <title>間主体性</title>
-    <url>/2022/10/05/undefined/</url>
-    <content><![CDATA[<p>結論から申し上げると、</p>
-<span id="more"></span>
-<p>私と他の中国人留学生の間には、ほとんどの場合には、間主体性が存在していない。</p>
-<p>その原因は複雑とも言えるぐらいにいろいろあるんだけれど、まぁ一言でいうと私は、<br>あの群れをバカにしているからである。</p>
-<p>にも関わらず向こうがいつも寄ってくるとは何故か。</p>
-<p>この前神社で参拝しているときに、「神様に頼るほど自力で叶えたい願いはないから、神様の健康を祈ります」と言っていたが、ちょっと前言撤回で、<br>マジで向こうと一切関わりのない生活を送りたいからあいつらをどうにかしてください。</p>
-]]></content>
-      <categories>
-        <category>Grumble</category>
-      </categories>
-      <tags>
-        <tag>ひとりごと</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>關於結婚</title>
-    <url>/2022/10/07/undefined/</url>
-    <content><![CDATA[<span id="more"></span>]]></content>
-      <categories>
-        <category>Grumble</category>
-      </categories>
-      <tags>
-        <tag>ひとりごと</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>我們不禁要問</title>
     <url>/2022/09/19/undefined/</url>
     <content><![CDATA[<p>我們不禁要問，</p>
@@ -278,6 +237,23 @@
       </tags>
   </entry>
   <entry>
+    <title>間主体性</title>
+    <url>/2022/10/05/undefined/</url>
+    <content><![CDATA[<p>結論から申し上げると、</p>
+<span id="more"></span>
+<p>私と他の中国人留学生の間には、ほとんどの場合には、間主体性が存在していない。</p>
+<p>その原因は複雑とも言えるぐらいにいろいろあるんだけれど、まぁ一言でいうと私は、<br>あの群れをバカにしているからである。</p>
+<p>にも関わらず向こうがいつも寄ってくるとは何故か。</p>
+<p>この前神社で参拝しているときに、「神様に頼るほど自力で叶えたい願いはないから、神様の健康を祈ります」と言っていたが、ちょっと前言撤回で、<br>マジで向こうと一切関わりのない生活を送りたいからあいつらをどうにかしてください。</p>
+]]></content>
+      <categories>
+        <category>Grumble</category>
+      </categories>
+      <tags>
+        <tag>ひとりごと</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>階級を語ること</title>
     <url>/2022/10/10/To-talk-about-the-class/</url>
     <content><![CDATA[<blockquote>
@@ -293,6 +269,17 @@
       <categories>
         <category>Essay</category>
       </categories>
+  </entry>
+  <entry>
+    <title>關於結婚</title>
+    <url>/2022/10/07/undefined/</url>
+    <content><![CDATA[<span id="more"></span>]]></content>
+      <categories>
+        <category>Grumble</category>
+      </categories>
+      <tags>
+        <tag>ひとりごと</tag>
+      </tags>
   </entry>
   <entry>
     <title>【未完成】〔ノート〕『フェミニズムはもういらない、と彼女は言うけれど　ポストフェミニズムと「女らしさ」のゆくえ』，高橋幸，晃洋書房，2020</title>
@@ -353,6 +340,19 @@
       </categories>
       <tags>
         <tag>修論関連</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>test_post_kakagami</title>
+    <url>/2022/08/20/undefined/</url>
+    <content><![CDATA[<p>有意義的東西</p>
+]]></content>
+      <categories>
+        <category>中文</category>
+      </categories>
+      <tags>
+        <tag>乱写</tag>
+        <tag>测试</tag>
       </tags>
   </entry>
 </search>
